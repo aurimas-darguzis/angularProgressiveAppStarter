@@ -1,0 +1,24 @@
+{
+    "short_name": "AngularStarter",
+    "name": "Angular4 Starter App",
+    "start_url": "/",
+
+    "theme_color": "#f48c5b",
+    "background_color": "#ffffff",
+
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "icons": [
+        {
+            "src": "/assets/images/icons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/icons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ]
+}
